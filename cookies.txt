@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.maryinvite.ru	TRUE	/	FALSE	1999999999	__ddg8_	2WsQPvKe0FYXgbr0
+.maryinvite.ru	TRUE	/	FALSE	1999999999	__ddg10_	1752697923
+.maryinvite.ru	TRUE	/	FALSE	1999999999	__ddg9_	37.99.49.250
+.maryinvite.ru	TRUE	/	FALSE	1999999999	__ddg1_	FvNoX9Nbgsdo2ZWvbX2F
+dropboxusercontent.com	TRUE	/	FALSE	1999999999	uc_session	jzGQoHm4NoVqKKxTAGJqhXiRra4a3TbWGdWpDV5OkyrTVYNgOBfgZH2kyKaG8RbE
+dl.dropboxusercontent.com	TRUE	/	FALSE	1999999999	SameSite	None
+
